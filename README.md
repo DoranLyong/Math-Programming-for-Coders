@@ -1,4 +1,4 @@
-# Math-Programming-for_Coders
+# Math Programming for Coders
 수학 공부용 코딩 연습하기 
 
 
