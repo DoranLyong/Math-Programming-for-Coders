@@ -11,4 +11,4 @@
 
 ***
 ### Reference 
-[1] [Math fo Programmers, orlandpm](https://github.com/orlandpm/Math-for-Programmers) / 이거 참고<br/>
+[1] [Math fo Programmers, orlandpm](https://github.com/DoranLyong/Math-for-Programmers) / 이거 참고<br/>
